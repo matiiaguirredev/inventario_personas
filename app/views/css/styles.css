@@ -1,0 +1,21 @@
+body,html {
+    height: 100%;
+    width: 100%;
+    
+}
+
+.main-container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-container .login, .hero-body {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+    min-width: 300px;
+    
+}
